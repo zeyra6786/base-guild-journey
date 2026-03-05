@@ -7,3 +7,4 @@ Understanding branches and merge concepts.
 Improving my Git workflow step by step.
 Researching Web3 development tools.
 Exploring the Base ecosystem.
+Learning about smart contracts.
