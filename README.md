@@ -2,5 +2,5 @@
 To make better profiles
 Started my open source journey on GitHub.
 Learning how commits work in public repositories.
-
+Exploring version control basics.
 
