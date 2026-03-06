@@ -15,3 +15,4 @@ Testing small updates frequently.
 Learning about GitHub collaboration tools.
 Understanding pull requests.
 Reviewing open source repositories.
+Studying Solidity basics.
