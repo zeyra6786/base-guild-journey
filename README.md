@@ -17,3 +17,4 @@ Understanding pull requests.
 Reviewing open source repositories.
 Studying Solidity basics.
 Exploring blockchain fundamentals.
+Tracking daily coding progress.
