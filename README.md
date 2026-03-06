@@ -9,3 +9,4 @@ Researching Web3 development tools.
 Exploring the Base ecosystem.
 Learning about smart contracts.
 Reading about decentralized applications.
+Improving markdown formatting skills.
