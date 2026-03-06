@@ -11,3 +11,4 @@ Learning about smart contracts.
 Reading about decentralized applications.
 Improving markdown formatting skills.
 Organizing project structure properly.
+Testing small updates frequently.
