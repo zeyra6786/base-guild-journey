@@ -27,3 +27,4 @@ Practicing small incremental updates.
 Researching DeFi protocols.
 Studying smart contract security basics.
 Learning about gas optimization.
+Exploring Ethereum Virtual Machine concepts.
