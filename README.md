@@ -26,3 +26,4 @@ Learning about commit history tracking.
 Practicing small incremental updates.
 Researching DeFi protocols.
 Studying smart contract security basics.
+Learning about gas optimization.
