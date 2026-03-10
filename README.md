@@ -22,3 +22,4 @@ Writing technical learning notes.
 Improving documentation clarity.
 Structuring README more clearly.
 Adding development roadmap ideas.
+Learning about commit history tracking.
