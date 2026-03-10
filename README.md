@@ -20,3 +20,4 @@ Exploring blockchain fundamentals.
 Tracking daily coding progress.
 Writing technical learning notes.
 Improving documentation clarity.
+Structuring README more clearly.
