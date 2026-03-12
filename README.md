@@ -30,3 +30,4 @@ Learning about gas optimization.
 Exploring Ethereum Virtual Machine concepts.
 Reviewing blockchain consensus mechanisms.
 Improving repository organization.
+Documenting development goals.
