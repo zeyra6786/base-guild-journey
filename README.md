@@ -33,3 +33,4 @@ Improving repository organization.
 Documenting development goals.
 Adding new learning milestones.
 Tracking Web3 progress daily.
+Exploring testnet environments.
