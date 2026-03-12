@@ -36,3 +36,4 @@ Tracking Web3 progress daily.
 Exploring testnet environments.
 Understanding wallet integrations.
 Learning about token standards.
+Studying ERC-20 fundamentals.
