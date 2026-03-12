@@ -31,3 +31,4 @@ Exploring Ethereum Virtual Machine concepts.
 Reviewing blockchain consensus mechanisms.
 Improving repository organization.
 Documenting development goals.
+Adding new learning milestones.
