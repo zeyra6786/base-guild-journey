@@ -35,3 +35,4 @@ Adding new learning milestones.
 Tracking Web3 progress daily.
 Exploring testnet environments.
 Understanding wallet integrations.
+Learning about token standards.
