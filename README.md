@@ -42,3 +42,4 @@ Improving commit consistency.
 Writing better technical summaries.
 Reviewing Git best practices.
 Exploring decentralized governance concepts.
+Learning about DAO structures.
