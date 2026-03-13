@@ -46,3 +46,4 @@ Learning about DAO structures.
 Improving file structure planning.
 Studying blockchain scalability solutions.
 Exploring Layer 2 technologies.
+Understanding rollups at a high level.
