@@ -41,3 +41,4 @@ Exploring NFT standards briefly.
 Improving commit consistency.
 Writing better technical summaries.
 Reviewing Git best practices.
+Exploring decentralized governance concepts.
