@@ -40,3 +40,4 @@ Studying ERC-20 fundamentals.
 Exploring NFT standards briefly.
 Improving commit consistency.
 Writing better technical summaries.
+Reviewing Git best practices.
