@@ -50,3 +50,4 @@ Understanding rollups at a high level.
 Reviewing cross-chain concepts
 Understanding blockchain explorers.
 Improving commit discipline.
+Reviewing secure coding practices.
