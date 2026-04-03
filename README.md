@@ -51,3 +51,4 @@ Reviewing cross-chain concepts
 Understanding blockchain explorers.
 Improving commit discipline.
 Reviewing secure coding practices.
+Learning about tokenomics design.
