@@ -57,3 +57,4 @@ Improving development workflow efficiency.
 Studying cryptographic fundamentals.
 Refining learning roadmap.
 Improving commit message clarity.
+Reviewing differences between Layer 1 and Layer 2.
