@@ -61,3 +61,4 @@ Reviewing differences between Layer 1 and Layer 2.
 Learning about Merkle trees.
 Adding more structured development logs.
 Learning about access control in contracts.
+Exploring zk rollups conceptually.
