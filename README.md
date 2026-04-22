@@ -64,3 +64,4 @@ Learning about access control in contracts.
 Exploring zk rollups conceptually.
 Exploring RPC provider differences.
 Studying historical blockchain exploits.
+Reviewing automated market maker models.
