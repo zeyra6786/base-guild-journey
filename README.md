@@ -65,3 +65,4 @@ Exploring zk rollups conceptually.
 Exploring RPC provider differences.
 Studying historical blockchain exploits.
 Reviewing automated market maker models.
+Studying DAO treasury management basics.
