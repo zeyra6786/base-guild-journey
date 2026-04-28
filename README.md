@@ -67,3 +67,4 @@ Studying historical blockchain exploits.
 Reviewing automated market maker models.
 Studying DAO treasury management basics.
 Studying transaction mempool behavior.
+Learning about open source licenses.
