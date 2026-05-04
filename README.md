@@ -69,3 +69,4 @@ Studying DAO treasury management basics.
 Studying transaction mempool behavior.
 Learning about open source licenses.
 Learning about event listeners in smart contracts.
+Learning about mock contracts.
