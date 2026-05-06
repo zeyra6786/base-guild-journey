@@ -71,3 +71,4 @@ Learning about open source licenses.
 Learning about event listeners in smart contracts.
 Learning about mock contracts.
 Studying wallet signature flows.
+Exploring decentralized finance innovations.
