@@ -73,3 +73,4 @@ Learning about mock contracts.
 Studying wallet signature flows.
 Exploring decentralized finance innovations.
 Learning about oracle integration basics.
+Reviewing smart contract automation.
