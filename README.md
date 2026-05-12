@@ -76,3 +76,4 @@ Learning about oracle integration basics.
 Reviewing smart contract automation.
 Reviewing smart contract deployment networks
 Studying transaction trace analysis.
+Exploring blockchain basics
