@@ -77,3 +77,4 @@ Reviewing smart contract automation.
 Reviewing smart contract deployment networks
 Studying transaction trace analysis.
 Exploring blockchain basics
+Learning about bridges
