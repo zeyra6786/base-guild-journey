@@ -82,3 +82,4 @@ Studying DeFi lending
 Exploring backend links
 Reviewing smart contract risks
 Reviewing IPFS
+Reviewing governance systems
