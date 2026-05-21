@@ -83,3 +83,4 @@ Exploring backend links
 Reviewing smart contract risks
 Reviewing IPFS
 Reviewing governance systems
+Studying lending systems
