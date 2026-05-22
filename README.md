@@ -84,3 +84,4 @@ Reviewing smart contract risks
 Reviewing IPFS
 Reviewing governance systems
 Studying lending systems
+Studying transaction trace
