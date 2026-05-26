@@ -86,3 +86,4 @@ Reviewing governance systems
 Studying lending systems
 Studying transaction trace
 Improving README layout
+Organizing notes
