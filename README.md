@@ -90,3 +90,4 @@
 - Updating structure
 - Refining markdown
 - Improving markdown
+- Learning RPC basics
