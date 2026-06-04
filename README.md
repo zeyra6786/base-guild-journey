@@ -93,3 +93,4 @@
 - Learning RPC basics
 - Studying APIs
 - Exploring bridges
+- Exploring cross chain
