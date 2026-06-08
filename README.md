@@ -95,3 +95,4 @@
 - Exploring bridges
 - Exploring cross chain
 - Reviewing sharding
+- Improving formatting
