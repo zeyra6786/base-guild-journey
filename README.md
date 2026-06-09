@@ -96,3 +96,4 @@
 - Exploring cross chain
 - Reviewing sharding
 - Improving formatting
+- Improving notes
