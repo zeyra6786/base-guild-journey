@@ -97,3 +97,4 @@
 - Reviewing sharding
 - Improving formatting
 - Improving notes
+- Updating notes
