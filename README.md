@@ -98,3 +98,4 @@
 - Improving formatting
 - Improving notes
 - Updating notes
+- Updating layout
