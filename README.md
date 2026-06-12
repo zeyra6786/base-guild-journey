@@ -99,3 +99,4 @@
 - Improving notes
 - Updating notes
 - Updating layout
+- Adding research
