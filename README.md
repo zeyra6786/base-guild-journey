@@ -100,3 +100,4 @@
 - Updating notes
 - Updating layout
 - Adding research
+- Exploring version control basics.
