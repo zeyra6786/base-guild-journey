@@ -101,3 +101,4 @@
 - Updating layout
 - Adding research
 - Exploring version control basics.
+- Reading about decentralized applications.
