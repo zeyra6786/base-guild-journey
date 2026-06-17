@@ -102,3 +102,4 @@
 - Adding research
 - Exploring version control basics.
 - Reading about decentralized applications.
+- Tracking daily coding progress.
