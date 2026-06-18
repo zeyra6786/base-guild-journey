@@ -103,3 +103,4 @@
 - Exploring version control basics.
 - Reading about decentralized applications.
 - Tracking daily coding progress.
+- Learning about gas optimization.
