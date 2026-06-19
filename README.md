@@ -104,3 +104,4 @@
 - Reading about decentralized applications.
 - Tracking daily coding progress.
 - Learning about gas optimization.
+- Learning about token standards.
