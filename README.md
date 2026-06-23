@@ -105,3 +105,4 @@
 - Tracking daily coding progress.
 - Learning about gas optimization.
 - Learning about token standards.
+- Studying blockchain scalability solutions.
