@@ -107,3 +107,4 @@
 - Learning about token standards.
 - Studying blockchain scalability solutions.
 - Exploring on-chain data basics.
+- Learning about CI/CD concepts.
